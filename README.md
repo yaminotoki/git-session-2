@@ -24,6 +24,7 @@ This is how you highlight, alternate tilde
   <p>Hey there</p>
 </div>```
 
+
 ```python
 int x = 0
 print x
